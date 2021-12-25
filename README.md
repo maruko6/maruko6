@@ -3,7 +3,7 @@
 nowadays, i'm taking a course in cross-platform software development at fatec Dom Evaristo Ans.
 - 🌱 I’m currently learning analysis and development of cross-platform software.
 - 💞️ I’m looking to collaborate on everything that can offer a source of learning and professional advancement.
-- 📫 How to reach me -- E-mail: ms5806166@gmail.com or Linkedin: linkedin.com/in/marcone-santos-5706831a8
+- 📫 How to reach me -- E-mail: ms5806166@gmail.com
 
 <!---
 maruko6/maruko6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
